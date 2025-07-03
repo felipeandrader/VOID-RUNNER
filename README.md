@@ -88,11 +88,12 @@ gcc ./src/*.c -I./include -o game
 
 ---
 
-# Equipe
+## 👨‍💻 Contribuição Pessoal
 
-- **Felipe Andrade**
-- **Fernando Cavalcanti**
-- **Pedro Gusmão**
+Neste projeto, fui responsável principalmente por:
+- Sistema de spawn e movimentação de inimigos.
+- Implementação do sistema de vidas adicionais do jogador.
+- Lógica de pontuação e ranking de players.
 
 ---
 
